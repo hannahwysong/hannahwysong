@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>👩‍💻Software Engineer Univerity Student<br>🏫Studying Computer Science at the [Wright State University](https://www.wright.edu/degrees-and-programs/profile/computer-science) in Ohio, USA<br>🏡Get in touch with me [Here!](https://linktr.ee/hannahwysong)<br>💭Currently studying Operating Systems and Computer Organization<br/>
+<br>👩‍💻Software Engineer Univerity Student<br>🏫Studying Computer Science at the [Wright State University](https://www.wright.edu/degrees-and-programs/profile/computer-science) in Ohio, USA<br>🏡Get in touch with me [Here!](https://linktr.ee/hannahwysong)
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
